@@ -1,0 +1,12 @@
+Nicola Amadio matricola
+
+la struttura implementa una coda.
+La coda di fatto sara' una lista di struct listnode, con il primo elemento della
+lista corrispondende alla testa e l'uiltimo alla coda.
+a punta alla testa della coda e b all'elemento in coda. Se la coda e' composta
+da un solo elemento, ovviamente a e b punteranno entrambe a lui. Se la coda e'
+vuota, saranno entrambe a NULL. 
+
+f1 e' la funzione che inserisce un elemento in coda: Enqueue.
+f2 e' la funzione che rimuove dalla coda l'elemento in testa e lo restituisce:
+Dequeue.
