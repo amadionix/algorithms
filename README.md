@@ -1,7 +1,7 @@
 # algorithms
 Algorithms &amp; Data Structures in C
 
-Standard algorithms and data sctructures implementated in C.
+Standard algorithms and data sctructures implemented in C.
 The format follows the structure of the course in Algorithms and Data Structures of the University of Milan, taught to bachelor students in Computer Science: in fact it's the solution of (almost) every lab exercise given during the course.
 
 The repository is organized the following way:
