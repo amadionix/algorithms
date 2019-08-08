@@ -6,8 +6,8 @@ The format follows the structure of the course in Algorithms and Data Structures
 
 The repository is organized the following way:
 every macro-topic (for ex. graphs) has a folder;
-inside each of those folders there is a bunch of .pdf files and a src folder;
+inside each of those folders there is a bunch of .pdf files and a code folder;
 the .pdf files are explainatory slides from the 2018/2019 edition of the course I mentioned before, along with exercises' texts (those .pdf are mostly in italian);
-inside the scr folder are the .c files implementing the solutions to the aforementioned exercises (here I mostly used english for comments and variable names);
+inside the code folder are the .c files implementing the solutions to the aforementioned exercises (here I mostly used english for comments and variable names);
 
 
